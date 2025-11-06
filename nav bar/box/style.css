@@ -1,0 +1,23 @@
+.box-big{
+   width: 400px;
+   height:300px ;
+   border: 2px solid green;
+   position: relative;
+}
+
+.box-small{
+    width: 300px;
+    height: 200px;
+    border: 2px solid;
+    margin: 40px;
+    position: fixed;
+    right: 80px ;
+    bottom: 50px;
+    background-color: rgba(rgb(0, 0, o), green, blue, alpha);
+
+
+}
+button{
+    position: absolute;
+    right: 0.9px;
+}
